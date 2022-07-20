@@ -1,1 +1,2 @@
-KenlexTelecom
+# KenlexTelecom
+Inventory System of Kenlex Telecoms
